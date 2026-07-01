@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conversation Map"
+  short_description: "Track goals, decisions, blockers, and next steps."
+  default_prompt: "Use $conversation-map to keep a concise state map while we work through this multi-step task."
